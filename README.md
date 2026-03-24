@@ -12,7 +12,7 @@ These apps do not collect any personal information. All photo processing in IAFo
 Photos are only used for editing within the app and are never uploaded to any server.
 
 ## Contact
-For any questions: didac.usa@icloud.com
+For any questions: didac.privacy@icloud.com
 
 ## Changes
 This policy may be updated occasionally. Changes will be posted on this page.
@@ -33,7 +33,7 @@ Estas apps no recopilan ninguna información personal. Todo el procesamiento de 
 Las fotos solo se usan para editar dentro de la app y nunca se suben a ningún servidor.
 
 ## Contacto
-Para cualquier pregunta: didac.didac@icloud.com
+Para cualquier pregunta: didac.privacy@icloud.com
 
 ## Cambios
 Esta política puede actualizarse ocasionalmente. Los cambios se publicarán en esta página.
