@@ -1,39 +1,25 @@
-# Privacy Policy
-
+Privacy Policy
 Last updated: March 24, 2026
-
-## Summary
-IA Photos Editor and Sommelier do not collect, store or share any personal data.
-
-## Data Collection
-These apps do not collect any personal information. All photo processing in IAFotos takes place locally on your device.
-
-## Photos
-Photos are only used for editing within the app and are never uploaded to any server.
-
-## Contact
+Summary
+This app does not collect, store, or share any personal data.
+Data Collection
+The app does not collect any personal information. All processing related to photos or user content takes place locally on your device.
+Photos
+Photos are only used within the app for editing or processing purposes and are never uploaded to any server.
+Contact
 For any questions: didac.privacy@icloud.com
-
-## Changes
-This policy may be updated occasionally. Changes will be posted on this page.
-
-
-
-# Política de Privacidad
-
+Changes
+This policy may be updated occasionally. Any changes will be posted on this page.
+---
+Política de Privacidad
 Última actualización: 24 de marzo de 2026
-
-## Resumen
-IA Fotos Editor y Sommelier no recopilan, almacenan ni comparten ningún dato personal.
-
-## Recopilación de datos
-Estas apps no recopilan ninguna información personal. Todo el procesamiento de fotos en IAFotos se realiza localmente en tu dispositivo.
-
-## Fotos
-Las fotos solo se usan para editar dentro de la app y nunca se suben a ningún servidor.
-
-## Contacto
+Resumen
+Esta app no recopila, almacena ni comparte ningún dato personal.
+Recopilación de datos
+La app no recopila ninguna información personal. Todo el procesamiento relacionado con fotos o contenido del usuario se realiza localmente en tu dispositivo.
+Fotos
+Las fotos solo se utilizan dentro de la app para funciones de edición o procesamiento y nunca se suben a ningún servidor.
+Contacto
 Para cualquier pregunta: didac.privacy@icloud.com
-
-## Cambios
-Esta política puede actualizarse ocasionalmente. Los cambios se publicarán en esta página.
+Cambios
+Esta política puede actualizarse ocasionalmente. Cualquier cambio se publicará en esta página.
